@@ -14,3 +14,15 @@
     cursor: pointer;
 }
 
+.section-fon{
+background-color: #2e2f42;
+}
+
+.title-h1{
+font-weight: 700;
+    font-size: 56px;
+    line-height: 60px; 
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
