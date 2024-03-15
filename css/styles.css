@@ -1,5 +1,16 @@
 .logo {
     font-family: "Raleway", sans-serif;
+    font-family: var(--second-family);
+        font-weight: 1,5;
+        font-size: 18px;
+        letter-spacing: 0.03em;
+        color: var(--iris);
+}
+.logo:hover{
+color: #404bbf;
+}
+.logo:focus{
+color: #404bbf;
 }
 
 body{
@@ -9,18 +20,31 @@ body{
     line-height: 1.5;
     font-weight: 400;
 }
+.mail-address:focus{
+ color: #404bbf;
+}
+
+.mail-address:hover{
+  color:#404bbf;
+}
+
+.tel-address:focus{
+    color:#404bbf;
+}
+
+.tel-address:hover{
+    color: #404bbf;
+}
 
 .page-button{
     cursor: pointer;
     background: #4d5ae5;
-    border-radius: 4px;
-        padding: 16px 32px;
-        width: 169px;
-        height: 56px;
-            font-weight: 500;
-            font-size: 16px;
-            line-height: 150%;
-            color: #fff;
+    width: 169px;
+    height: 56px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
 }
 
 .section-fon{
