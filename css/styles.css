@@ -1,105 +1,19 @@
-.logo {
-    font-family: "Raleway", sans-serif;
-    font-family: var(--second-family);
-        font-weight: 1,5;
+.body{
+    font-family: "Roboto", sans-serif;
+}
+
+.header-logo{
+        font-weight: 700;
         font-size: 18px;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         color: #4d5ae5;
-        font-weight: 700;
-        line-height: 1.17;
-}
-.logo-footer{
-    font-family: "Roboto", sans-serif;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    font-weight: 700;
-    line-height: 1.17;
-}
-.logo-footer-spane{
-        font-family: "Roboto", sans-serif;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            color:#f4f4fd;
-            font-weight: 700;
-            line-height: 1.17;
 }
 
-.logo-span{
-    font-family: "Raleway", sans-serif;
+.header-logo-studio{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color:#2e2f42;
-}
-.logo:hover {
-    color: #404bbf;
-}
-.logo:focus {
-    color: #404bbf;
-}
-
-body{
-    font-family: "Roboto", sans-serif;
     color: #2e2f42;
-    font-size: 16px;
-    line-height: 1.5;
-    font-weight: 400;
-}
-.mail-address:focus{
- color: #404bbf;
-}
-
-.mail-address:hover{
-  color:#404bbf;
-}
-
-.tel-address:focus{
-    color:#404bbf;
-}
-
-.tel-address:hover{
-    color: #404bbf;
-}
-
-.page-button{
-    cursor: pointer;
-    background: #4d5ae5;
-    width: 169px;
-    height: 56px;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    color: #fff;
-}
-
-.section-fon{
-background-color: #2e2f42;
-    width: 1440px;
-    height: 732px;
-}
-
-.title-h1{
-font-weight: 700;
-    font-size: 56px;
-    line-height: 60px; 
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
-}
-
-.page-ourtame{
-    background: #f4f4fd;
-}
-
-
-.page-footer{
-font-family: "Raleway", sans-serif;
-    color: #f4f4fd;
-font-weight: 400;
-    font-size: 18px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    background:#2e2f42;
 }
