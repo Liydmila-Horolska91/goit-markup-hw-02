@@ -1,6 +1,6 @@
 .body{
     font-family: "Roboto", sans-serif;
-    background-color: #fff;
+    background-color: #FFFFFF;
     color: #434455;
 }
 
@@ -13,6 +13,7 @@ ul {
 }
 
 .header-logo{
+    font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
@@ -174,7 +175,7 @@ background: #2e2f42;
 }
 
 .footer-logo{
-    font-family: "Raleway", sans-serif;
+    font-family:"Raleway",sans-serif;
     color: #f4f4fd;
 }
 
