@@ -57,7 +57,7 @@ font-style: normal;
 }
 
 .address-link:hover,
-address-link:focus{
+.address-link:focus{
     color: #404BBF;
 }
 .section-title{
@@ -83,7 +83,7 @@ address-link:focus{
 }
 
 .main-button:hover,
-address-link:focus {
+.address-link:focus {
     background-color: #404BBF;
 }
 
