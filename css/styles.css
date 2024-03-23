@@ -49,16 +49,16 @@ font-style: normal;
 }
 
 .contact{
-font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+    font-style: normal;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .contacts:hover,
 .contacts:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 .section-title{
     background: #2e2f42;
@@ -74,18 +74,17 @@ font-weight: 400;
 }
 
 .maim-button{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #fff;
-    background-color: #4d5ae5;
-    cursor: pointer;
+    background: #4d5ae5;
+        cursor: pointer;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff
 }
 
 .main-button:hover,
 .main-button:focus {
-    background-color: #404bbf;
+    background-color: #404BBF;
 }
 
 /* advantages */
