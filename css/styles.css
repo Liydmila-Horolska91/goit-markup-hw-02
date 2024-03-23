@@ -56,7 +56,8 @@ font-style: normal;
         color: #434455;
 }
 
-.address-link:hover{
+.address-link:hover,
+address-link:focus{
     color: #404BBF;
 }
 .section-title{
@@ -81,7 +82,8 @@ font-style: normal;
         color: #ffffff
 }
 
-.main-button:hover {
+.main-button:hover,
+address-link:focus {
     background-color: #404BBF;
 }
 
