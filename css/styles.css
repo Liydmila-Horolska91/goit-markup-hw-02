@@ -83,7 +83,7 @@ font-style: normal;
 }
 
 .main-button:hover,
-.address-link:focus {
+.main-button:focus {
     background-color: #404BBF;
 }
 
